@@ -1,3 +1,4 @@
+<img width="798" height="451" alt="Screenshot 2026-07-28 064951" src="https://github.com/user-attachments/assets/e6246f6e-470a-48b4-9681-0974ba1a3dad" />
 # 🚀 YOLOv8 Object Detection and Multi-Object Tracking
 ## 📌 Overview
 
